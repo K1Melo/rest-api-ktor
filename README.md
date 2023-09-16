@@ -2,6 +2,8 @@
 
 ## Requirements
 
+JVM - Java Virtual Machine
+
 kotlin - 1.9.10+
 
 ktor = 2.3.4+
