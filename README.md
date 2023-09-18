@@ -4,9 +4,8 @@
 
 JVM - Java Virtual Machine
 
-kotlin - 1.9.10+
+kotlin - 1.8.22+
 
-ktor = 2.3.4+
 
 ## Build app
 
